@@ -1,0 +1,10 @@
+----------------------------------------
+ Open Source Manifesto
+ By Suryansh Dhakarwal
+ Date: 31 March 2026
+----------------------------------------
+
+I use linux regularly, and it represents the idea of That I can explore hidden files of system easily in technology.
+I believe software should be open, collaborative, and accessible to everyone.
+If given the opportunity, I would build my own code editor and share it freely with the world.
+Open source allows innovation to grow without restrictions.
